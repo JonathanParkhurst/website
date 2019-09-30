@@ -1,4 +1,4 @@
-  <table border="1" style="text-alignL:center;">
+  <table border="1" style="text-align:center;">
 <tr>
 <td style="color:blue> Saint Laurent</td>
 <td style="color:yellow;"> Leather Products</d>
